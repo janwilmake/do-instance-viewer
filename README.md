@@ -22,4 +22,4 @@
 3. Enter your Cloudflare account ID, email, and Global API Key
 4. View all your Durable Objects namespaces and instances
 
-The worker fetches up to 100 objects per namespace as requested and displays all the available details for each object (ID and whether it has stored data).
+The worker fetches up to 10000 objects per namespace and displays ID and whether it has stored data
