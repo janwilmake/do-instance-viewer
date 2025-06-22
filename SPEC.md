@@ -1,7 +1,7 @@
 https://oapis.org/openapi/cloudflare/durable-objects-namespace-list-objects
 https://oapis.org/openapi/cloudflare/durable-objects-namespace-list-namespaces (please assume the OpenAPI is incomplete and we can curse over the namespaces using ?page)
 
-Make me a Cloudflare worker that I can pass an account-id and api key (email not needed) and it would store that in a cookie and enable the worker if the cookies are found.
+Cloudflare worker (Typescript) that I can pass an account-id and api key (email not needed) and it would store that in a cookie and enable the worker if the cookies are found.
 
 The worker lists all namespaces (ensure to fully curse over all namespaces to have them all) neatly in a table.
 
