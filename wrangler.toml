@@ -1,0 +1,8 @@
+name = "do-instance-viewer"
+main = "main.ts"
+compatibility_date = "2025-06-21"
+dev.port = 3000
+
+routes = [
+  { pattern = "instanceviewer.itscooldo.com", custom_domain = true }
+]
