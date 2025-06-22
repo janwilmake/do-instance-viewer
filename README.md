@@ -6,7 +6,6 @@
 4. **Statistics overview** - Summary cards showing total namespaces, objects, and objects with data
 5. **Detailed namespace information** - Shows ID, class, script, SQLite usage, and object count
 6. **Object details** - Lists up to 100 objects per namespace with their IDs and data storage status
-7. **Responsive design** - Clean, modern UI that works on different screen sizes
 
 ## Security Features:
 
