@@ -1,5 +1,5 @@
-https://oapis.org/openapi/cloudflare/durable-objects-namespace-list-objects
 https://oapis.org/openapi/cloudflare/durable-objects-namespace-list-namespaces (please assume the OpenAPI is incomplete and we can curse over the namespaces using ?page)
+https://oapis.org/openapi/cloudflare/durable-objects-namespace-list-objects
 
 Cloudflare worker (Typescript) that I can pass an account-id and api key (email not needed) and it would store that in a cookie and enable the worker if the cookies are found.
 
